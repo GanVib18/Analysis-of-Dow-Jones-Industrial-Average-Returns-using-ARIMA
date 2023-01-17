@@ -41,8 +41,12 @@ ARIMA(2,0,2) and following the principle of parsimony, we decide to stick with A
 for our analysis.
 
 ### **Authors:**
+
 Inayat Lakhani 
+
 Isabah Tabenda Hasan 
+
 Romeesa Jabbar 
+
 Vibhuti Gandhi 
 
