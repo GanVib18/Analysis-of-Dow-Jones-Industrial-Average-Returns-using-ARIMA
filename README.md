@@ -1,6 +1,6 @@
 # Analysis-of-Dow-Jones-Industrial-Average-Returns-using-ARIMA
 
-**Goal:**
+### **Goal:**
 
 The main goal of our project, analysis of Dow Jones Industrial Average Returns using ARIMA,
 is to understand the stochastic trends of DJI and more forecasts.
